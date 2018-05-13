@@ -1,4 +1,4 @@
-# TRAIit
+# TrainIT
 About:
 “trAIn it” is a game which is integrated with an AI game bot where the user trains it in the game itself by playing with it. Which is later competed with the other game bot of other player. So the skills of the bot are directly proportional to the time user spends with his/her bot.
  
