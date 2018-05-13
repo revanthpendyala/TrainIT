@@ -14,13 +14,4 @@ Our Game Plan:
 To keep it simple, we initial are expecting it to use the idea in the ping pong game. Here the user is an Old wrecked bat which trains the new generation young bats (which is a bot) to play ping pong and send them to play with the other young bats of other users.
 
 
-Project Plan:
 
-Before mid-Semester exam 1:
-Building basic game in Unity where a bat is used to play a ping pong.  
-
-Before mid-Semester exam 2:
-Integrating AI bot to the game to which user can train it and send to battle with other bats.
-
-Before Comprehensive exam:
-Creating a multiplayer platform where different users compete with each other.
